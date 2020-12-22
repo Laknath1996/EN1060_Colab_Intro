@@ -9,8 +9,8 @@ This repository contains the resources requried for the "Introduction to Google 
 
 ### Instructions
 
-* Make a folder called "EN1060_Signals_and_Systems_Labs" in your google drive.
-* Inside the "EN1060_Signals_and_Systems_Labs" folder, open a new colab file.
+* Make a folder called "EN1060_Signals_and_Systems_Labs_190XXX" in your google drive.
+* Inside the "EN1060_Signals_and_Systems_Labs_190XXX" folder, open a new colab file.
 * Name this as "Clone_File.ipynb"
 * Connect to a run time in the newly created notebook
 * Mount the google drive by running the following code.
