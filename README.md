@@ -19,10 +19,11 @@ This repository contains the resources requried for the "Introduction to Google 
 from google.colab import drive
 drive.mount('/content/drive')
 ```
-* Navigate to the "EN1060_Signals_and_Systems_Labs" folder using the following command.
+* Navigate to the "EN1060_Signals_and_Systems_Labs_190XXX" folder using the following command.
+Note  : replace "/path/to/EN1060_Signals_and_Systems_Labs_190XXX" with the true path.
 
 ```
-% cd /path/to/EN1060_Signals_and_Systems_Labs
+% cd /path/to/EN1060_Signals_and_Systems_Labs_190XXX
 ```
 * Clone this github repository to the current folder.
 
